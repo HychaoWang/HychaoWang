@@ -5,6 +5,8 @@ A member of [AI4Brain](https://AI4Brain.github.io)
 ## Quick Link to My Projects
 SleepKD: [A Compression Algorithm for Sleep Staging Models based on KD](https://github.com/HychaoWang/SleepKD)
 
+OSTKD: [Online Spatial Temporal Knowledge Distillation for Sleep Stage Classification](https://github.com/HychaoWang/OSTKD)
+
 HighSpeed Railway Client: [A PyQt Client for High Speed Railway Automatic Braking](https://github.com/HychaoWang/HighSpeedRailwayAutoBrakingClient)
 
 Personal Website: [Hychaowang.github.io](https://Hychaowang.github.io)
