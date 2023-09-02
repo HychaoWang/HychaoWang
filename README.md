@@ -3,7 +3,7 @@ Master student studying data science in SIGS, Tsinghua University.
 
 A member of [AI4Brain](https://AI4Brain.github.io)
 ## Quick Link to My Projects
-SleepKD: [A Compression Algorithm for Sleep Staging Models based on KD](https://github.com/HychaoWang/SleepKD)
+SleepKD (IJCAI 2023): [A Compression Algorithm for Sleep Staging Models based on KD](https://github.com/HychaoWang/SleepKD)
 
 HighSpeed Railway Client: [A PyQt Client for High Speed Railway Automatic Braking](https://github.com/HychaoWang/HighSpeedRailwayAutoBrakingClient)
 
