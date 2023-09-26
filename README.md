@@ -6,7 +6,7 @@ BJTUer (2019-2023), A member of [AI4Brain](https://AI4Brain.github.io)
 ## Research Interest
 Computer Vision: Low Light Enhancement, SLAM
 
-Time series: Physiological signal processing
+Time series: Physiological Signal Processing
 
 Machine Learning: Knowledge Distillation
 
