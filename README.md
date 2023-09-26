@@ -7,4 +7,6 @@ SleepKD (IJCAI 2023): [A Compression Algorithm for Sleep Staging Models based on
 
 HighSpeed Railway Client: [A PyQt Client for High Speed Railway Automatic Braking](https://github.com/HychaoWang/HighSpeedRailwayAutoBrakingClient)
 
+Super Resolution (Member): [Image Super Resolution][https://github.com/Tohrusky/Final2x]
+
 Personal Website: [Hychaowang.github.io](https://Hychaowang.github.io)
