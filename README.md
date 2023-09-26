@@ -2,6 +2,14 @@
 Graduate student in SIGS, Tsinghua University.
 
 BJTUer (2019-2023), A member of [AI4Brain](https://AI4Brain.github.io)
+
+## Research Interest
+Computer Vision: Low Light Enhancement, SLAM
+
+Time series: Physiological signal processing
+
+Machine Learning: Knowledge Distillation
+
 ## Quick Link to My Projects
 SleepKD (IJCAI 2023): [A Compression Algorithm for Sleep Staging Models based on KD](https://github.com/HychaoWang/SleepKD)
 
