@@ -1,7 +1,7 @@
 # Hychao Wang
 Master student in SIGS, Tsinghua University.
 
-BJTUer (2019-2023), A member of [AI4Brain](https://AI4Brain.github.io)
+BJTUer (2019-2023)
 
 ## Research Interest
 Computer Vision: Video Coding
