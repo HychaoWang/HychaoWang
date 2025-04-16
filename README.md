@@ -1,7 +1,9 @@
 # Hychao Wang
-Master student in SIGS, Tsinghua University.
+studying computer science and ai. 
 
-BJTUer (2019-2023)
+master student in tsinghua university. 
+
+bachelor's degree in beijing jiaotong university.
 
 ## Research Interest
 Computer Vision: Video Coding
