@@ -1,9 +1,7 @@
 # Hychao Wang
-studying computer science and ai. 
+master student @ tsinghua university. 
 
-master student in tsinghua university. 
-
-bachelor's degree in beijing jiaotong university.
+bachelor's degree @ beijing jiaotong university.
 
 ## Research Interest
 Computer Vision: Video Coding
